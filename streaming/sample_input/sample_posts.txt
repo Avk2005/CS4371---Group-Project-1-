@@ -1,0 +1,9 @@
+{"id": 1, "title": "OpenAI and Microsoft announce new partnership", "text": ""}
+{"id": 2, "title": "", "text": "<p>Elon Musk said Tesla will open a new factory in Texas &amp; hire 5,000 people.</p>"}
+{"id": 3, "title": "Show HN: I built a Linux tool for Kafka monitoring", "text": ""}
+{"id": 4, "title": "Apple shares fall after Tim Cook comments on China sales", "text": ""}
+{"id": 5, "title": "", "text": "The Lakers beat the Celtics in Boston last night, LeBron James scored 30"}
+{"id": 6, "title": "Google DeepMind researchers publish new paper on protein folding", "text": ""}
+{"id": 7, "title": "", "text": "<i>The European Union</i> fined Amazon over data privacy rules in Germany"}
+{"id": 8, "title": "Ask HN: Is Rust worth learning in 2026?", "text": ""}
+Plain text post: NASA plans another Artemis launch from Florida next year

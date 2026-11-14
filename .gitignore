@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+# Large/generated data - share through Google Drive, not git
+data/*
+models/*
+output/*
+!data/.gitkeep
+!models/.gitkeep
+!output/.gitkeep
+checkpoints/
+spark-warehouse/
+metastore_db/
+derby.log
+*.parquet
+# Secrets
+.env
+# OS / editor
+.DS_Store
+.vscode/

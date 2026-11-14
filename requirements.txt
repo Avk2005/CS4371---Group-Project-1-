@@ -1,0 +1,7 @@
+pyspark==3.5.3
+spacy>=3.7,<4
+pandas
+pyarrow
+kafka-python>=2.0.3     # Kafka client for producer.py (swap if producer.py imports something else)
+requests
+# after install:  python -m spacy download en_core_web_sm
