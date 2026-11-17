@@ -1,0 +1,11 @@
+Top 10 named entities at 60 minutes (2026-11-14 14:46:08)
+ 1. AI                             35
+ 2. US                             21
+ 3. Americans                      13
+ 4. Europe                         13
+ 5. KDE                            11
+ 6. Meta                           11
+ 7. Germany                        10
+ 8. EU                             9
+ 9. European                       9
+10. GDPR                           9

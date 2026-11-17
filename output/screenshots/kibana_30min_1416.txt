@@ -1,0 +1,11 @@
+Top 10 named entities at 30 minutes (2026-11-14 14:16:08)
+ 1. AI                             22
+ 2. Americans                      9
+ 3. Jensen                         9
+ 4. US                             9
+ 5. Meta                           8
+ 6. Europe                         6
+ 7. Germany                        6
+ 8. KDE                            6
+ 9. China                          5
+10. Europeans                      5

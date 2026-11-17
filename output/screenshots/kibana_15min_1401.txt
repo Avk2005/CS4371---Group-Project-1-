@@ -1,0 +1,11 @@
+Top 10 named entities at 15 minutes (2026-11-14 14:01:08)
+ 1. AI                             9
+ 2. Jensen                         9
+ 3. Google                         5
+ 4. Alice                          4
+ 5. Americans                      4
+ 6. Chinese                        4
+ 7. Europeans                      4
+ 8. KDE                            4
+ 9. Meta                           4
+10. Trump                          4
