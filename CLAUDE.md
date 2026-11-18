@@ -4,7 +4,7 @@
 CS4371 Group Project 1, due Nov 15 2026 at 11:59 PM. The assignment PDFs are in `docs/` if they were added.
 Pipeline: Hacker News producer → Kafka topic1 → PySpark Structured Streaming (spaCy NER running counts → topic2 → Logstash → Elasticsearch → Kibana top-10 bar chart; plus live AG News classification counts in the console). Part 2: an MLlib pipeline (RegexTokenizer, StopWordsRemover, HashingTF, IDF, LogisticRegression) trained on AG News and applied to the streamed text.
 
-I am Abhi. I own `streaming/` and am also doing `training/` (Chris's part). The whole live pipeline runs on MY machine (WSL2 Ubuntu + Docker Desktop).
+The whole live pipeline runs on MY machine (WSL2 Ubuntu + Docker Desktop).
 
 ## Environment
 - WSL2 Ubuntu, Python venv at `.venv` (always `source .venv/bin/activate`), Java 17, PySpark 3.5.3, spaCy en_core_web_sm
